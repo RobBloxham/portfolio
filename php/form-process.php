@@ -11,7 +11,7 @@ $txtname ="name";
 $txtemail = "text@info.com";
 $txtmessage = "Hello";
 
-$EmailTo = "rob.bloxham209@gmail.com";
+$EmailTo = "robert@robertbloxham.com";
 $Subject = "New Message Received";
 
 // prepare email body text
